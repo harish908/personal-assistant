@@ -1,6 +1,6 @@
 # personal-assistant
 
-Personal assistant to answer all your questions. With LLMs you can build your question-answering system! Train an LLM on a vast corpus of knowledge, such as Wikipedia or domain-specific data, and develop a system that can provide accurate and informative answers to user queries.
+Empower your inquiries with a personalized assistant capable of providing comprehensive answers. Utilized Large Language Models (LLMs) to construct a question-answering system. By training an LLM on extensive datasets like Wikipedia or domain-specific information, created a solution for delivering accurate and insightful responses to user questions.
 
 #### Train model with your personalized content.
 POST /api/transformText <br>
